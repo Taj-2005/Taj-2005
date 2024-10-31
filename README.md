@@ -19,10 +19,10 @@ Hello there! I’m Taj
 
 ![WakaTime Badge](https://wakatime.com/badge/user/18cad418-1288-46b3-a938-1a4e75183603.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Taj-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Taj-2005" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Taj-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Taj-2005" /> </p>
 <div align="center">
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taj-2005" alt="taj-2005" /></a> </p>
+<h1 align="center">🏆 GitHub Trophies</h1>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taj-2005" alt="taj-2005" /></a> </p>
 </div>
 
 <hr>
