@@ -65,7 +65,7 @@
 [![An image of @taj786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taj786)](https://holopin.io/@taj786)
 <div align="center">
    
-### 🔝 Top Contributed Repos
+<h1 align="center">🔝 Top Contributed Repos</h1>
 ![](https://github-contributor-stats.vercel.app/api?username=Taj-2005&limit=5&theme=panda&combine_all_yearly_contributions=true)
    
 </div>
