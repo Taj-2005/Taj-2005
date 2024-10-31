@@ -1,4 +1,4 @@
-Hello there! I’m Taj
+<h1 align="center">Hello there! I’m Taj</h1>
 
 🌟 Passionate first-year Computer Science student with a knack for coding and a love for open-source contributions. Constantly seeking to learn and grow, I thrive on tackling complex challenges and collaborating with diverse communities. My enthusiasm for technology fuels my drive to innovate and create impactful solutions. Let's connect and build the future together!
 <h1 align="center"> 🌐 Socials:</h1>
