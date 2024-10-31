@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I’m Taj</h1>
+<h1 align="center">Hello there!<img src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/hi.gif" width="30px"> I’m Taj</h1>
 
 🌟 Passionate first-year Computer Science student with a knack for coding and a love for open-source contributions. Constantly seeking to learn and grow, I thrive on tackling complex challenges and collaborating with diverse communities. My enthusiasm for technology fuels my drive to innovate and create impactful solutions. Let's connect and build the future together!
 <h1 align="center"> 🌐 Socials</h1>
