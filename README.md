@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I’m Taj</h1>
 
 🌟 Passionate first-year Computer Science student with a knack for coding and a love for open-source contributions. Constantly seeking to learn and grow, I thrive on tackling complex challenges and collaborating with diverse communities. My enthusiasm for technology fuels my drive to innovate and create impactful solutions. Let's connect and build the future together!
-<h1 align="center"> 🌐 Socials:</h1>
+<h1 align="center"> 🌐 Socials</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/tajuddin-shaik-91b626323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tajuddin shaik" height="30" width="40" /></a>
 <a href="https://kaggle.com/tajuddin786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tajuddin786" height="30" width="40" /></a>
@@ -12,7 +12,7 @@
 <a href="https://www.leetcode.com/taj-786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taj-786" height="30" width="40" /></a>
 </p>
 <br>
-<h1 align="center"> 💻 Tech Stack:</h1>
+<h1 align="center"> 💻 Tech Stack</h1>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br>
 <div align="center">
