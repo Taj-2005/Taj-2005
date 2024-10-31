@@ -21,13 +21,12 @@ Hello there! I’m Taj
 ![WakaTime Badge](https://wakatime.com/badge/user/18cad418-1288-46b3-a938-1a4e75183603.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taj-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Taj-2005" /> </p>
-
+<div align="center">
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taj-2005" alt="taj-2005" /></a> </p>
-
+</div>
 
 <hr>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taj-2005&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Taj-2005" />
 
 </details>                     
@@ -36,9 +35,9 @@ Hello there! I’m Taj
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
+<div align="center">
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+</div>
 
 # Github Stats
 
