@@ -3,7 +3,7 @@
 🌟 Passionate first-year Computer Science student with a knack for coding and a love for open-source contributions. Constantly seeking to learn and grow, I thrive on tackling complex challenges and collaborating with diverse communities. My enthusiasm for technology fuels my drive to innovate and create impactful solutions. Let's connect and build the future together!
 <h1 align="center"> 🌐 Socials</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/tajuddin-shaik-91b626323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tajuddin shaik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tajuddinshaik786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tajuddin shaik" height="30" width="40" /></a>
 <a href="https://kaggle.com/tajuddin786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tajuddin786" height="30" width="40" /></a>
 <a href="https://instagram.com/tajuddinshaik_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tajuddinshaik_6" height="30" width="40" /></a>
 <a style="color:white" href="https://www.codechef.com/users/taj786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="taj786" height="30" width="40" /></a>
