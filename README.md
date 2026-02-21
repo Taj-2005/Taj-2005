@@ -23,8 +23,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Taj-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Taj-2005" /> </p>
 <div align="center">
-<h1 align="center">🏆 GitHub Trophies</h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taj-2005" alt="taj-2005" /></a> </p>
 </div>
 
 <hr>
@@ -65,7 +63,5 @@
 [![An image of @taj786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taj786)](https://holopin.io/@taj786)
 <div align="center">
    
-<h1 align="center">🔝 Top Contributed Repos</h1>
-![](https://github-contributor-stats.vercel.app/api?username=Taj-2005&limit=5&theme=panda&combine_all_yearly_contributions=true)
    
 </div>
