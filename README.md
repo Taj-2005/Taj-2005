@@ -67,7 +67,7 @@
         <img src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" height="150"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taj-2005&theme=dark&hide_border=true" height="150"/>
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Taj-2005&theme=dark&hide_border=true" height="150"/>
       </td>
       <td>
         <img src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" height="150"/>
